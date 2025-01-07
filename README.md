@@ -137,6 +137,6 @@ Contributions are welcome! If you'd like to enhance this project, please follow 
 ### **Contact**
 For questions or feedback, feel free to reach out:
 - **Author**: Carl Anthony Osborne
-- **Email**: carl@ehrconsultantforhire.com
+- **Email**: app@ehrconsultantforhire.com
 - **LinkedIn**: https://www.linkedin.com/in/carlanthonyosborne/  
 - **GitHub**: https://github.com/ehrconsultantforhire 
